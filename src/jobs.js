@@ -15,3 +15,4 @@ const jobs = [
     { title: "Graphic Designer", company: "CreativeCore", location: "Kolkata" },
     { title: "AI Research Intern", company: "NeuralNet Labs", location: "Delhi" }
   ];
+  export default jobs;
