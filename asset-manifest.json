@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/job-portfolio-react/static/css/main.f02489c8.css",
+    "main.js": "/job-portfolio-react/static/js/main.cc29519f.js",
+    "static/media/jobs.jpg": "/job-portfolio-react/static/media/jobs.4c2514b2e9b053ed105a.jpg",
+    "index.html": "/job-portfolio-react/index.html",
+    "main.f02489c8.css.map": "/job-portfolio-react/static/css/main.f02489c8.css.map",
+    "main.cc29519f.js.map": "/job-portfolio-react/static/js/main.cc29519f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f02489c8.css",
+    "static/js/main.cc29519f.js"
+  ]
+}
